@@ -1,0 +1,3 @@
+# Desafio 1 -  Bootcamp TQI:
+
+- Criação, atualização e sincronização de repositório no Github
